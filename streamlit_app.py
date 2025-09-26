@@ -113,4 +113,4 @@ if total > 0:
 # Footer
 # -------------------------------
 st.markdown("---")
-st.markdown('Made with ❤️ using Streamlit', unsafe_allow_html=True)
+st.markdown('Made with ❤️ By Kushagra Verma', unsafe_allow_html=True)
